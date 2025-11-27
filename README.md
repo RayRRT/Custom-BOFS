@@ -41,6 +41,3 @@ demon> inline-execute /path/to/esc1_finder_bof.o
 
 These tools are intended **exclusively for authorized security testing** in controlled lab environments. Unauthorized use against systems you do not own or have explicit permission to test is illegal. The author assumes no liability for misuse.
 
-## License
-
-MIT
